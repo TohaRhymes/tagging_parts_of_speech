@@ -1,0 +1,13 @@
+TAGS = {'ADJ',
+        'ADP',
+        'ADV',
+        'CONJ',
+        'DET',
+        'INTJ',
+        'NOUN',
+        'NUM',
+        'PART',
+        'PRCL',
+        'PRON',
+        'PUNCT',
+        'VERB'}
